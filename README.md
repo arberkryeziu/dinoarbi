@@ -1,4 +1,4 @@
-![Dinoarbi](https://arberk.github.io/dinoarbi/Dino-Arbi/Dinoarbi.jpg)
+![Dinoarbi](https://arberkryeziu.github.io/dinoarbi/Dino-Arbi/Dinoarbi.jpg)
 
 # My fist website (Circa 2002)
 
@@ -19,4 +19,10 @@ I'm sharing this piece of my digital history as a reminder of where I started my
 
 Please enjoy this blast from the past, and thank you for taking this trip down memory lane with me!
 
-Subpage about the author 😆: https://arberk.github.io/dinoarbi/Dino-Arbi/Arber_Kryeziu.html
+Subpage about the author 😆: https://arberkryeziu.github.io/dinoarbi/Dino-Arbi/Arber_Kryeziu.html
+
+## Archive
+
+The e-mail addresses that were on these pages are redacted (personal data). Nothing else changed; the untouched original is in this repository's history at commit 2d1ac8d.
+
+An archival copy with an English and German translation, checksums and provenance lives at https://arberkryeziu.com/archive/dinoarbi/
